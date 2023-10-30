@@ -22,4 +22,4 @@ n/a
 My portfolio is a compilation of academic and professional materials that exemplifies beliefs, skills, qualifications, education, training, and experiences. It provides insight into my personality and work ethic.
 Include screenshots as needed.
 
-<img width="720" alt="screenshot" src="">
+<img width="720" alt="screenshot" src="./src/assets/images/React.png">
